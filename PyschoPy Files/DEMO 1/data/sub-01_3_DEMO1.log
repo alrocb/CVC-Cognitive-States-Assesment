@@ -1,0 +1,112 @@
+11.0245 	INFO 	Loaded monitor calibration from ['2024_02_16 11:04']
+11.8474 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8490 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8505 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8528 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8547 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8558 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8573 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8596 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8606 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8615 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8631 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8646 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8660 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8678 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8691 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8708 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8723 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8732 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8743 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8767 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8779 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.8783 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.8867 	DEBUG 	Upload of Texture Font fontname complete
+11.9051 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.9073 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.9094 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.9097 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.9284 	DEBUG 	Upload of Texture Font fontname complete
+12.2813 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001CE493C8CA0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001CE493C8C40>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001CE493C8A90>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001CE497662E0>, multiSample=False, name='window1', numSamples=2, pos=(192, 108), screen=0, size=array([1536,  864]), stencilBits=0, stereo=False, title='PsychoPy', units='norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+12.2814 	EXP 	window1: mouseVisible = True
+12.2814 	EXP 	window1: backgroundImage = ''
+12.2814 	EXP 	window1: backgroundFit = 'none'
+12.2829 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+12.2829 	EXP 	window1: recordFrameIntervals = False
+12.4469 	EXP 	window1: recordFrameIntervals = True
+12.6305 	EXP 	Screen (0) actual frame rate measured at 59.74Hz
+12.6305 	EXP 	window1: recordFrameIntervals = False
+12.6306 	EXP 	window1: mouseVisible = True
+12.6421 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+14.5021 	INFO 	keyboard.Keyboard is using iohub backend.
+14.5021 	EXP 	DEMO1: status = STARTED
+14.5023 	EXP 	window1: mouseVisible = True
+14.5515 	EXP 	Created hello = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='hello', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='Hello, dear Python aficionado.', units='norm', win=Window(...), wrapWidth=1)
+14.5516 	EXP 	window1: mouseVisible = True
+14.5624 	EXP 	Created welcome = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='welcome', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+14.5625 	EXP 	window1: mouseVisible = True
+14.5818 	EXP 	Created wait_key = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.075, italic=False, languageStyle='LTR', name='wait_key', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+14.5818 	INFO 	keyboard.Keyboard is using iohub backend.
+14.5819 	EXP 	window1: mouseVisible = True
+14.5953 	EXP 	Created stim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='stim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=512, units='norm', win=Window(...))
+14.5954 	EXP 	window1: mouseVisible = True
+14.6043 	EXP 	Created gabor_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='gabor_txt', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='And what about a fancy “gabor wavelet”?', units='norm', win=Window(...), wrapWidth=1)
+14.6045 	EXP 	window1: mouseVisible = True
+14.6393 	EXP 	Created gabor_stim = GratingStim(__class__=<class 'psychopy.visual.grating.GratingStim'>, anchor='center', autoDraw=False, autoLog=True, blendmode='avg', color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, interpolate=True, mask='gauss', maskParams=None, name='gabor_stim', opacity=1.0, ori=0.0, phase=array([0., 0.]), pos=array([0., 0.]), rgbPedestal=array([0., 0., 0.]), sf=array([10., 10.]), size=array([0.5, 0.5]), tex='sin', texRes=512, units='norm', win=Window(...))
+14.6394 	EXP 	window1: mouseVisible = True
+14.6478 	EXP 	Created txt1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.075, italic=False, languageStyle='LTR', name='txt1', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+14.6479 	EXP 	window1: mouseVisible = True
+14.6521 	EXP 	Created txt2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.075, italic=False, languageStyle='LTR', name='txt2', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='But let’s stop here …', units='norm', win=Window(...), wrapWidth=1)
+14.6522 	EXP 	window1: mouseVisible = True
+14.6571 	EXP 	Created txt3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='txt3', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='Goodbye!', units='norm', win=Window(...), wrapWidth=1)
+14.6572 	EXP 	window1: mouseVisible = True
+14.6688 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='The end!', units='norm', win=Window(...), wrapWidth=1)
+0.0475 	EXP 	hello: autoDraw = True
+2.0108 	EXP 	welcome: autoDraw = True
+2.0605 	EXP 	hello: autoDraw = False
+4.0107 	INFO 	Keyboard events cleared
+4.0104 	EXP 	welcome: autoDraw = False
+4.0104 	EXP 	wait_key: autoDraw = True
+5.3299 	DEBUG 	Read csv file with pandas: stimuli.csv
+5.3307 	DEBUG 	Clearing unnamed columns from stimuli.csv
+5.3309 	EXP 	Imported stimuli.csv as conditions, 3 conditions, 1 params
+5.3312 	EXP 	Created sequence: random, trialTypes=3, nReps=1, seed=None
+5.3313 	EXP 	New trial (rep=0, index=0): OrderedDict([('image', 'Matlab.png')])
+5.3598 	DATA 	Keypress: return
+5.3773 	EXP 	hello: autoDraw = False
+5.3773 	EXP 	welcome: autoDraw = False
+5.3773 	EXP 	wait_key: autoDraw = False
+5.3773 	EXP 	stim: image = 'Matlab.png'
+5.3773 	EXP 	stim: autoDraw = True
+6.3440 	EXP 	New trial (rep=0, index=1): OrderedDict([('image', 'Python.png')])
+6.3607 	EXP 	stim: autoDraw = False
+6.3607 	EXP 	stim: image = 'Python.png'
+6.3607 	EXP 	stim: autoDraw = True
+7.3439 	EXP 	New trial (rep=0, index=2): OrderedDict([('image', 'R.png')])
+7.3609 	EXP 	stim: autoDraw = False
+7.3609 	EXP 	stim: image = 'R.png'
+7.3609 	EXP 	stim: autoDraw = True
+8.3601 	EXP 	stim: autoDraw = False
+8.3601 	EXP 	gabor_txt: autoDraw = True
+10.3579 	EXP 	gabor_stim: autoDraw = True
+10.3579 	EXP 	gabor_stim: tex = 'sin'
+10.3771 	EXP 	gabor_txt: autoDraw = False
+12.3598 	EXP 	gabor_txt: autoDraw = False
+12.3598 	EXP 	gabor_stim: autoDraw = False
+12.3598 	EXP 	txt1: autoDraw = True
+14.3434 	EXP 	txt2: autoDraw = True
+14.3599 	EXP 	txt1: autoDraw = False
+16.3433 	EXP 	txt2: autoDraw = False
+16.3433 	EXP 	txt3: autoDraw = True
+17.3430 	EXP 	txt3: autoDraw = False
+17.3430 	EXP 	text: autoDraw = True
+18.3434 	EXP 	text: autoDraw = False
+18.3434 	EXP 	txt1: autoDraw = False
+18.3434 	EXP 	txt2: autoDraw = False
+18.3434 	EXP 	txt3: autoDraw = False
+18.3434 	EXP 	text: autoDraw = False
+18.3435 	EXP 	DEMO1: status = STOPPED
+18.3468 	INFO 	saved data to 'C:\\Users\\Alex\\Desktop\\CVC\\PyschoPy Files\\DEMO 1\\data/sub-01_3_DEMO1.csv'
+18.3476 	INFO 	saved data to C:\Users\Alex\Desktop\CVC\PyschoPy Files\DEMO 1\data/sub-01_3_DEMO1.psydat
+18.3822 	EXP 	window1: mouseVisible = True
+18.8096 	DEBUG 	Saving data for DEMO1 ExperimentHandler

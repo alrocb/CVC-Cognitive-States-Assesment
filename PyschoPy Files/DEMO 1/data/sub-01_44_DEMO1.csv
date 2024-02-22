@@ -1,0 +1,4 @@
+﻿image,stimulus_loop.thisRepN,stimulus_loop.thisTrialN,stimulus_loop.thisN,stimulus_loop.thisIndex,thisRow.t,notes,intro.started,hello.started,welcome.started,hello.stopped,welcome.stopped,wait_key.started,key_resp.started,intro.stopped,key_resp.keys,key_resp.rt,key_resp.duration,show_stimulus.started,stim.started,show_stimulus.stopped,participant,age,date,expName,psychopyVersion,frameRate,expStart,
+,,,,,,,0.01958089997060597,0.03661660000216216,2.014738400001079,2.048488999949768,4.015076399897225,4.015076399897225,4.015076399897225,27.748928099987097,return,23.732598999980837,None,,,,01,44,2024-02-16_12h07.07.644,DEMO1,2023.2.3,60.131893276974374,2024-02-16 12h07.14.796403 +0100,
+Python.png,0,0,0,0,27.797121499897912,,,,,,,,,,,,,27.753381999908015,27.797121499897912,28.76416599994991,01,44,2024-02-16_12h07.07.644,DEMO1,2023.2.3,60.131893276974374,2024-02-16 12h07.14.796403 +0100,
+,,,,,28.78063850000035,,,,,,,,,,,,,28.764427699963562,28.78063850000035,,,,,,,,,
