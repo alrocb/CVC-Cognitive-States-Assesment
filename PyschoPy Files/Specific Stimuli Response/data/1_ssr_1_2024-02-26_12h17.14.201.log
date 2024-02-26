@@ -1,0 +1,71 @@
+5.8336 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002347BF4F220>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002347BF4F1C0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000002347BF3E820>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000002347C2F7D00>, multiSample=False, name='window1', numSamples=2, pos=(192, 108), screen=0, size=array([1536,  864]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.8340 	EXP 	window1: mouseVisible = True
+5.8341 	EXP 	window1: backgroundImage = ''
+5.8341 	EXP 	window1: backgroundFit = 'none'
+5.8356 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.8357 	EXP 	window1: recordFrameIntervals = False
+5.9993 	EXP 	window1: recordFrameIntervals = True
+6.1834 	EXP 	Screen (0) actual frame rate measured at 60.11Hz
+6.1835 	EXP 	window1: recordFrameIntervals = False
+6.1836 	EXP 	window1: mouseVisible = True
+6.1962 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+7.9559 	EXP 	ssr_1: status = STARTED
+7.9561 	EXP 	window1: mouseVisible = True
+8.0045 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.0046 	EXP 	window1: mouseVisible = True
+8.0121 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.0122 	EXP 	window1: mouseVisible = True
+8.0233 	EXP 	Created figura = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='figura', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+8.0234 	EXP 	window1: mouseVisible = True
+8.0266 	EXP 	Created polygon = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='polygon', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.01, 0.01]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+0.0438 	EXP 	text: autoDraw = True
+1.5616 	DATA 	Mouse: Left button down, pos=(839,38)
+1.6250 	DATA 	Mouse:  Left button up, pos=(839,38)
+2.1915 	DATA 	Keypress: return
+2.2066 	EXP 	text: autoDraw = False
+2.2066 	EXP 	text_2: autoDraw = True
+3.1949 	EXP 	Imported conditions.xlsx as conditions, 24 conditions, 2 params
+3.1954 	EXP 	Created sequence: random, trialTypes=24, nReps=2, seed=None
+3.1956 	EXP 	New trial (rep=0, index=0): {'Stimulus': '9.png', 'Target': 0}
+3.2404 	EXP 	text_2: autoDraw = False
+3.2404 	EXP 	text_2: autoDraw = False
+3.2404 	EXP 	figura: image = '9.png'
+3.2404 	EXP 	figura: autoDraw = True
+5.2394 	EXP 	figura: autoDraw = False
+10.3418 	DATA 	Keypress: space
+10.3558 	EXP 	figura: autoDraw = False
+10.3558 	EXP 	polygon: autoDraw = True
+10.8398 	EXP 	New trial (rep=0, index=1): {'Stimulus': '4.png', 'Target': 0}
+10.8561 	EXP 	polygon: autoDraw = False
+10.8561 	EXP 	polygon: autoDraw = False
+10.8561 	EXP 	figura: image = '4.png'
+10.8561 	EXP 	figura: autoDraw = True
+11.7071 	DATA 	Keypress: space
+11.7389 	EXP 	figura: autoDraw = False
+11.7389 	EXP 	polygon: autoDraw = True
+12.2231 	EXP 	New trial (rep=0, index=2): {'Stimulus': '12.png', 'Target': 0}
+12.2392 	EXP 	polygon: autoDraw = False
+12.2392 	EXP 	polygon: autoDraw = False
+12.2392 	EXP 	figura: image = '12.png'
+12.2392 	EXP 	figura: autoDraw = True
+12.7085 	DATA 	Keypress: space
+12.7226 	EXP 	figura: autoDraw = False
+12.7226 	EXP 	polygon: autoDraw = True
+13.2064 	EXP 	New trial (rep=0, index=3): {'Stimulus': '7.png', 'Target': 0}
+13.2227 	EXP 	polygon: autoDraw = False
+13.2227 	EXP 	polygon: autoDraw = False
+13.2227 	EXP 	figura: image = '7.png'
+13.2227 	EXP 	figura: autoDraw = True
+13.5244 	DATA 	Keypress: space
+13.5384 	EXP 	figura: autoDraw = False
+13.5384 	EXP 	polygon: autoDraw = True
+14.0243 	EXP 	New trial (rep=0, index=4): {'Stimulus': '15.png', 'Target': 0}
+14.0401 	EXP 	polygon: autoDraw = False
+14.0401 	EXP 	polygon: autoDraw = False
+14.0401 	EXP 	figura: image = '15.png'
+14.0401 	EXP 	figura: autoDraw = True
+14.4402 	DATA 	Keypress: escape
+14.6246 	EXP 	ssr_1: status = STOPPED
+14.6389 	EXP 	figura: autoDraw = False
+14.6390 	EXP 	ssr_1: status = STOPPED
+14.6773 	EXP 	window1: mouseVisible = True

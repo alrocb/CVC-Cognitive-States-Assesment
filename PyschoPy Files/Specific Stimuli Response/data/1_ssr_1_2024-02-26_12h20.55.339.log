@@ -1,0 +1,129 @@
+6.0575 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000020E8C6F3040>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000020E8C6DEFD0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000020E8C6DEE80>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000020E8CA96B20>, multiSample=False, name='window1', numSamples=2, pos=(192, 108), screen=0, size=array([1536,  864]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.0575 	EXP 	window1: mouseVisible = True
+6.0576 	EXP 	window1: backgroundImage = ''
+6.0576 	EXP 	window1: backgroundFit = 'none'
+6.0590 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.0590 	EXP 	window1: recordFrameIntervals = False
+6.2243 	EXP 	window1: recordFrameIntervals = True
+6.4078 	EXP 	Screen (0) actual frame rate measured at 60.02Hz
+6.4079 	EXP 	window1: recordFrameIntervals = False
+6.4079 	EXP 	window1: mouseVisible = True
+6.4202 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+8.1798 	EXP 	ssr_1: status = STARTED
+8.1801 	EXP 	window1: mouseVisible = True
+8.2281 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.2282 	EXP 	window1: mouseVisible = True
+8.2363 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.2365 	EXP 	window1: mouseVisible = True
+8.2501 	EXP 	Created figura = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='figura', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+0.0460 	EXP 	text: autoDraw = True
+1.3099 	DATA 	Keypress: return
+1.3241 	EXP 	text: autoDraw = False
+1.3241 	EXP 	text_2: autoDraw = True
+2.3136 	EXP 	Imported conditions.xlsx as conditions, 38 conditions, 2 params
+2.3141 	EXP 	Created sequence: random, trialTypes=38, nReps=2, seed=None
+2.3143 	EXP 	New trial (rep=0, index=0): {'Stimulus': '2.png', 'Target': 1}
+2.3571 	EXP 	text_2: autoDraw = False
+2.3571 	EXP 	text_2: autoDraw = False
+2.3571 	EXP 	figura: image = '2.png'
+2.3571 	EXP 	figura: autoDraw = True
+3.3245 	EXP 	New trial (rep=0, index=1): {'Stimulus': '20.png', 'Target': 0}
+3.3407 	EXP 	figura: autoDraw = False
+3.3407 	EXP 	figura: image = '20.png'
+3.3407 	EXP 	figura: autoDraw = True
+4.3243 	EXP 	New trial (rep=0, index=2): {'Stimulus': '9.png', 'Target': 0}
+4.3407 	EXP 	figura: autoDraw = False
+4.3407 	EXP 	figura: image = '9.png'
+4.3407 	EXP 	figura: autoDraw = True
+5.3246 	EXP 	New trial (rep=0, index=3): {'Stimulus': '24.png', 'Target': 0}
+5.3408 	EXP 	figura: autoDraw = False
+5.3408 	EXP 	figura: image = '24.png'
+5.3408 	EXP 	figura: autoDraw = True
+6.3240 	EXP 	New trial (rep=0, index=4): {'Stimulus': '16.png', 'Target': 0}
+6.3407 	EXP 	figura: autoDraw = False
+6.3407 	EXP 	figura: image = '16.png'
+6.3407 	EXP 	figura: autoDraw = True
+7.3240 	EXP 	New trial (rep=0, index=5): {'Stimulus': '1.png', 'Target': 1}
+7.3404 	EXP 	figura: autoDraw = False
+7.3404 	EXP 	figura: image = '1.png'
+7.3404 	EXP 	figura: autoDraw = True
+7.9919 	EXP 	New trial (rep=0, index=6): {'Stimulus': '2.png', 'Target': 1}
+7.9968 	DATA 	Keypress: space
+8.0067 	EXP 	figura: autoDraw = False
+8.0067 	EXP 	figura: image = '2.png'
+8.0067 	EXP 	figura: autoDraw = True
+8.5582 	EXP 	New trial (rep=0, index=7): {'Stimulus': '1.png', 'Target': 1}
+8.5630 	DATA 	Keypress: space
+8.5737 	EXP 	figura: autoDraw = False
+8.5737 	EXP 	figura: image = '1.png'
+8.5737 	EXP 	figura: autoDraw = True
+9.1083 	DATA 	Keypress: space
+9.1256 	EXP 	New trial (rep=0, index=8): {'Stimulus': '21.png', 'Target': 0}
+9.1402 	EXP 	figura: autoDraw = False
+9.1402 	EXP 	figura: image = '21.png'
+9.1402 	EXP 	figura: autoDraw = True
+10.1247 	EXP 	New trial (rep=0, index=9): {'Stimulus': '1.png', 'Target': 1}
+10.1402 	EXP 	figura: autoDraw = False
+10.1402 	EXP 	figura: autoDraw = False
+10.1402 	EXP 	figura: image = '1.png'
+10.1402 	EXP 	figura: autoDraw = True
+10.6918 	EXP 	New trial (rep=0, index=10): {'Stimulus': '1.png', 'Target': 1}
+10.6971 	DATA 	Keypress: space
+10.7070 	EXP 	figura: autoDraw = False
+10.7070 	EXP 	figura: image = '1.png'
+10.7070 	EXP 	figura: autoDraw = True
+11.6908 	EXP 	New trial (rep=0, index=11): {'Stimulus': '22.png', 'Target': 0}
+11.7073 	EXP 	figura: autoDraw = False
+11.7073 	EXP 	figura: autoDraw = False
+11.7073 	EXP 	figura: image = '22.png'
+11.7073 	EXP 	figura: autoDraw = True
+11.8410 	EXP 	New trial (rep=0, index=12): {'Stimulus': '2.png', 'Target': 1}
+11.8467 	DATA 	Keypress: space
+11.8569 	EXP 	figura: autoDraw = False
+11.8569 	EXP 	figura: image = '2.png'
+11.8569 	EXP 	figura: autoDraw = True
+12.3752 	EXP 	New trial (rep=0, index=13): {'Stimulus': '4.png', 'Target': 0}
+12.3805 	DATA 	Keypress: space
+12.3903 	EXP 	figura: autoDraw = False
+12.3903 	EXP 	figura: image = '4.png'
+12.3903 	EXP 	figura: autoDraw = True
+13.3906 	EXP 	New trial (rep=0, index=14): {'Stimulus': '1.png', 'Target': 1}
+13.4068 	EXP 	figura: autoDraw = False
+13.4068 	EXP 	figura: image = '1.png'
+13.4068 	EXP 	figura: autoDraw = True
+13.6411 	DATA 	Mouse: Right button down, pos=(720,365)
+13.7254 	DATA 	Mouse:  Right button up, pos=(720,365)
+13.8744 	EXP 	New trial (rep=0, index=15): {'Stimulus': '15.png', 'Target': 0}
+13.8794 	DATA 	Keypress: space
+13.8902 	EXP 	figura: autoDraw = False
+13.8902 	EXP 	figura: image = '15.png'
+13.8902 	EXP 	figura: autoDraw = True
+14.8737 	EXP 	New trial (rep=0, index=16): {'Stimulus': '1.png', 'Target': 1}
+14.8898 	EXP 	figura: autoDraw = False
+14.8898 	EXP 	figura: autoDraw = False
+14.8898 	EXP 	figura: image = '1.png'
+14.8898 	EXP 	figura: autoDraw = True
+15.3909 	EXP 	New trial (rep=0, index=17): {'Stimulus': '6.png', 'Target': 0}
+15.3966 	DATA 	Keypress: space
+15.4066 	EXP 	figura: autoDraw = False
+15.4066 	EXP 	figura: image = '6.png'
+15.4066 	EXP 	figura: autoDraw = True
+15.9079 	EXP 	New trial (rep=0, index=18): {'Stimulus': '18.png', 'Target': 0}
+15.9130 	DATA 	Keypress: space
+15.9237 	EXP 	figura: autoDraw = False
+15.9237 	EXP 	figura: image = '18.png'
+15.9237 	EXP 	figura: autoDraw = True
+16.9075 	EXP 	New trial (rep=0, index=19): {'Stimulus': '19.png', 'Target': 0}
+16.9243 	EXP 	figura: autoDraw = False
+16.9243 	EXP 	figura: autoDraw = False
+16.9243 	EXP 	figura: image = '19.png'
+16.9243 	EXP 	figura: autoDraw = True
+17.8247 	DATA 	Keypress: escape
+17.9239 	EXP 	New trial (rep=0, index=20): {'Stimulus': '2.png', 'Target': 1}
+17.9399 	EXP 	figura: autoDraw = False
+17.9399 	EXP 	figura: image = '2.png'
+17.9399 	EXP 	figura: autoDraw = True
+17.9907 	EXP 	ssr_1: status = STOPPED
+18.0065 	EXP 	figura: autoDraw = False
+18.0066 	EXP 	ssr_1: status = STOPPED
+18.0417 	EXP 	window1: mouseVisible = True

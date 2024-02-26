@@ -1,0 +1,32 @@
+9.3829 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000205FD86FEB0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000205FD86FE50>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000205FD86FCA0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000205FDC27940>, multiSample=False, name='window1', numSamples=2, pos=(192, 108), screen=0, size=array([1536,  864]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+9.3830 	EXP 	window1: mouseVisible = True
+9.3830 	EXP 	window1: backgroundImage = ''
+9.3830 	EXP 	window1: backgroundFit = 'none'
+9.3844 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+9.3845 	EXP 	window1: recordFrameIntervals = False
+9.5490 	EXP 	window1: recordFrameIntervals = True
+9.7321 	EXP 	Screen (0) actual frame rate measured at 60.00Hz
+9.7322 	EXP 	window1: recordFrameIntervals = False
+9.7322 	EXP 	window1: mouseVisible = True
+9.7441 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+11.6053 	EXP 	ssr_1: status = STARTED
+11.6055 	EXP 	window1: mouseVisible = True
+11.6531 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+11.6533 	EXP 	window1: mouseVisible = True
+11.6610 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+11.6611 	EXP 	window1: mouseVisible = True
+11.6635 	EXP 	Created figura = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image=None, interpolate=True, mask=None, maskParams=None, name='figura', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+11.6636 	EXP 	window1: mouseVisible = True
+11.6669 	EXP 	Created polygon = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='polygon', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.01, 0.01]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+0.0358 	EXP 	text: autoDraw = True
+2.2840 	DATA 	Keypress: return
+2.3147 	EXP 	text: autoDraw = False
+2.3147 	EXP 	text_2: autoDraw = True
+3.3045 	EXP 	Imported conditions.xlsx as conditions, 24 conditions, 2 params
+3.3050 	EXP 	Created sequence: random, trialTypes=24, nReps=2, seed=None
+3.3052 	EXP 	New trial (rep=0, index=0): {'Stimulus': '20.png', 'Target': 0}
+3.3093 	EXP 	Imported conditions.xlsx as conditions, 24 conditions, 2 params
+3.3096 	EXP 	Created sequence: sequential, trialTypes=24, nReps=1, seed=None
+3.3097 	EXP 	New trial (rep=0, index=0): {'Stimulus': '1.png', 'Target': 1}
+3.3102 	DEPRECATION 	Couldn't find image 1.png; check path? (tried: C:\Users\Alex\Desktop\CVC\CVC-Cognitive-States-Assesment\PyschoPy Files\Specific Stimuli Response\1.png)
+3.3522 	EXP 	window1: mouseVisible = True

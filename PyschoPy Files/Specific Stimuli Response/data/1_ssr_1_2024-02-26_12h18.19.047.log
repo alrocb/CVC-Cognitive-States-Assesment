@@ -1,0 +1,116 @@
+5.4789 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001F5735E1E20>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001F5735E1DC0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001F5735E1BE0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001F5739978E0>, multiSample=False, name='window1', numSamples=2, pos=(192, 108), screen=0, size=array([1536,  864]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.4790 	EXP 	window1: mouseVisible = True
+5.4790 	EXP 	window1: backgroundImage = ''
+5.4790 	EXP 	window1: backgroundFit = 'none'
+5.4805 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.4805 	EXP 	window1: recordFrameIntervals = False
+5.6457 	EXP 	window1: recordFrameIntervals = True
+5.8295 	EXP 	Screen (0) actual frame rate measured at 59.71Hz
+5.8295 	EXP 	window1: recordFrameIntervals = False
+5.8296 	EXP 	window1: mouseVisible = True
+5.8408 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+7.6001 	EXP 	ssr_1: status = STARTED
+7.6004 	EXP 	window1: mouseVisible = True
+7.6506 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+7.6508 	EXP 	window1: mouseVisible = True
+7.6589 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+7.6590 	EXP 	window1: mouseVisible = True
+7.6725 	EXP 	Created figura = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='figura', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+7.6726 	EXP 	window1: mouseVisible = True
+7.6763 	EXP 	Created polygon = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='polygon', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.01, 0.01]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+0.0401 	EXP 	text: autoDraw = True
+1.7381 	DATA 	Keypress: return
+1.7524 	EXP 	text: autoDraw = False
+1.7524 	EXP 	text_2: autoDraw = True
+2.7411 	EXP 	Imported conditions.xlsx as conditions, 24 conditions, 2 params
+2.7416 	EXP 	Created sequence: random, trialTypes=24, nReps=2, seed=None
+2.7417 	EXP 	New trial (rep=0, index=0): {'Stimulus': '17.png', 'Target': 0}
+2.7859 	EXP 	text_2: autoDraw = False
+2.7859 	EXP 	text_2: autoDraw = False
+2.7859 	EXP 	figura: image = '17.png'
+2.7859 	EXP 	figura: autoDraw = True
+3.7688 	EXP 	figura: autoDraw = False
+3.7688 	EXP 	polygon: autoDraw = True
+4.2528 	EXP 	New trial (rep=0, index=1): {'Stimulus': '4.png', 'Target': 0}
+4.2690 	EXP 	polygon: autoDraw = False
+4.2690 	EXP 	figura: image = '4.png'
+4.2690 	EXP 	figura: autoDraw = True
+5.2687 	EXP 	figura: autoDraw = False
+5.2687 	EXP 	polygon: autoDraw = True
+5.7529 	EXP 	New trial (rep=0, index=2): {'Stimulus': '12.png', 'Target': 0}
+5.7687 	EXP 	polygon: autoDraw = False
+5.7687 	EXP 	figura: image = '12.png'
+5.7687 	EXP 	figura: autoDraw = True
+6.7686 	EXP 	figura: autoDraw = False
+6.7686 	EXP 	polygon: autoDraw = True
+7.2524 	EXP 	New trial (rep=0, index=3): {'Stimulus': '9.png', 'Target': 0}
+7.2691 	EXP 	polygon: autoDraw = False
+7.2691 	EXP 	figura: image = '9.png'
+7.2691 	EXP 	figura: autoDraw = True
+8.2686 	EXP 	figura: autoDraw = False
+8.2686 	EXP 	polygon: autoDraw = True
+8.7527 	EXP 	New trial (rep=0, index=4): {'Stimulus': '18.png', 'Target': 0}
+8.7691 	EXP 	polygon: autoDraw = False
+8.7691 	EXP 	figura: image = '18.png'
+8.7691 	EXP 	figura: autoDraw = True
+9.7687 	EXP 	figura: autoDraw = False
+9.7687 	EXP 	polygon: autoDraw = True
+10.2523 	EXP 	New trial (rep=0, index=5): {'Stimulus': '2.png', 'Target': 1}
+10.2686 	EXP 	polygon: autoDraw = False
+10.2686 	EXP 	figura: image = '2.png'
+10.2686 	EXP 	figura: autoDraw = True
+11.2683 	EXP 	figura: autoDraw = False
+11.2683 	EXP 	polygon: autoDraw = True
+11.7522 	EXP 	New trial (rep=0, index=6): {'Stimulus': '16.png', 'Target': 0}
+11.7689 	EXP 	polygon: autoDraw = False
+11.7689 	EXP 	figura: image = '16.png'
+11.7689 	EXP 	figura: autoDraw = True
+12.7684 	EXP 	figura: autoDraw = False
+12.7684 	EXP 	polygon: autoDraw = True
+13.2520 	EXP 	New trial (rep=0, index=7): {'Stimulus': '15.png', 'Target': 0}
+13.2691 	EXP 	polygon: autoDraw = False
+13.2691 	EXP 	figura: image = '15.png'
+13.2691 	EXP 	figura: autoDraw = True
+14.2687 	EXP 	figura: autoDraw = False
+14.2687 	EXP 	polygon: autoDraw = True
+14.7519 	EXP 	New trial (rep=0, index=8): {'Stimulus': '1.png', 'Target': 1}
+14.7686 	EXP 	polygon: autoDraw = False
+14.7686 	EXP 	figura: image = '1.png'
+14.7686 	EXP 	figura: autoDraw = True
+15.3045 	DATA 	Keypress: space
+15.3181 	EXP 	figura: autoDraw = False
+15.3181 	EXP 	polygon: autoDraw = True
+15.8023 	EXP 	New trial (rep=0, index=9): {'Stimulus': '24.png', 'Target': 0}
+15.8184 	EXP 	polygon: autoDraw = False
+15.8184 	EXP 	polygon: autoDraw = False
+15.8184 	EXP 	figura: image = '24.png'
+15.8184 	EXP 	figura: autoDraw = True
+16.8186 	EXP 	figura: autoDraw = False
+16.8186 	EXP 	figura: autoDraw = False
+16.8186 	EXP 	polygon: autoDraw = True
+17.3018 	EXP 	New trial (rep=0, index=10): {'Stimulus': '11.png', 'Target': 0}
+17.3188 	EXP 	polygon: autoDraw = False
+17.3188 	EXP 	polygon: autoDraw = False
+17.3188 	EXP 	figura: image = '11.png'
+17.3188 	EXP 	figura: autoDraw = True
+18.3179 	EXP 	figura: autoDraw = False
+18.3179 	EXP 	figura: autoDraw = False
+18.3179 	EXP 	polygon: autoDraw = True
+18.8022 	EXP 	New trial (rep=0, index=11): {'Stimulus': '5.png', 'Target': 0}
+18.8183 	EXP 	polygon: autoDraw = False
+18.8183 	EXP 	polygon: autoDraw = False
+18.8183 	EXP 	figura: image = '5.png'
+18.8183 	EXP 	figura: autoDraw = True
+19.8180 	EXP 	figura: autoDraw = False
+19.8180 	EXP 	figura: autoDraw = False
+19.8180 	EXP 	polygon: autoDraw = True
+20.3023 	EXP 	New trial (rep=0, index=12): {'Stimulus': '3.png', 'Target': 0}
+20.3186 	EXP 	polygon: autoDraw = False
+20.3186 	EXP 	polygon: autoDraw = False
+20.3186 	EXP 	figura: image = '3.png'
+20.3186 	EXP 	figura: autoDraw = True
+20.9369 	DATA 	Keypress: escape
+21.0523 	EXP 	ssr_1: status = STOPPED
+21.0681 	EXP 	figura: autoDraw = False
+21.0682 	EXP 	ssr_1: status = STOPPED
+21.1041 	EXP 	window1: mouseVisible = True
