@@ -1,0 +1,407 @@
+6.9508 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000023D5BADAC70>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000023D5BADAC10>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000023D5BADAA60>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000023D5BE79220>, multiSample=False, name='window1', numSamples=2, pos=(192, 108), screen=0, size=array([1536,  864]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.9509 	EXP 	window1: mouseVisible = True
+6.9509 	EXP 	window1: backgroundImage = ''
+6.9509 	EXP 	window1: backgroundFit = 'none'
+6.9524 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.9524 	EXP 	window1: recordFrameIntervals = False
+7.1168 	EXP 	window1: recordFrameIntervals = True
+7.3839 	EXP 	Screen (0) actual frame rate measured at 59.54Hz
+7.3839 	EXP 	window1: recordFrameIntervals = False
+7.3840 	EXP 	window1: mouseVisible = True
+7.4262 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+9.6133 	EXP 	ssr_1: status = STARTED
+9.6136 	EXP 	window1: mouseVisible = True
+9.7525 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.7526 	EXP 	window1: mouseVisible = True
+9.7601 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.7602 	EXP 	window1: mouseVisible = True
+9.7730 	EXP 	Created figura = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='figura', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+0.0492 	EXP 	text: autoDraw = True
+43.1601 	DATA 	Mouse: Left button down, pos=(669,444)
+43.2933 	DATA 	Mouse:  Left button up, pos=(669,444)
+43.6101 	DATA 	Keypress: return
+43.6249 	EXP 	text: autoDraw = False
+43.6249 	EXP 	text_2: autoDraw = True
+44.6273 	EXP 	Imported conditions.xlsx as conditions, 38 conditions, 2 params
+44.6293 	EXP 	Created sequence: random, trialTypes=38, nReps=2, seed=None
+44.6296 	EXP 	New trial (rep=0, index=0): {'Stimulus': '1.png', 'Target': 1}
+44.6752 	EXP 	text_2: autoDraw = False
+44.6752 	EXP 	text_2: autoDraw = False
+44.6752 	EXP 	figura: image = '1.png'
+44.6752 	EXP 	figura: autoDraw = True
+45.6263 	EXP 	New trial (rep=0, index=1): {'Stimulus': '2.png', 'Target': 1}
+45.6420 	EXP 	figura: autoDraw = False
+45.6420 	EXP 	figura: image = '2.png'
+45.6420 	EXP 	figura: autoDraw = True
+46.6093 	EXP 	New trial (rep=0, index=2): {'Stimulus': '10.png', 'Target': 0}
+46.6253 	EXP 	figura: autoDraw = False
+46.6253 	EXP 	figura: image = '10.png'
+46.6253 	EXP 	figura: autoDraw = True
+47.6093 	EXP 	New trial (rep=0, index=3): {'Stimulus': '1.png', 'Target': 1}
+47.6251 	EXP 	figura: autoDraw = False
+47.6251 	EXP 	figura: autoDraw = False
+47.6251 	EXP 	figura: image = '1.png'
+47.6251 	EXP 	figura: autoDraw = True
+48.6091 	EXP 	New trial (rep=0, index=4): {'Stimulus': '14.png', 'Target': 0}
+48.6247 	EXP 	figura: autoDraw = False
+48.6247 	EXP 	figura: image = '14.png'
+48.6247 	EXP 	figura: autoDraw = True
+49.1929 	EXP 	New trial (rep=0, index=5): {'Stimulus': '8.png', 'Target': 0}
+49.1990 	DATA 	Keypress: space
+49.2082 	EXP 	figura: autoDraw = False
+49.2082 	EXP 	figura: image = '8.png'
+49.2082 	EXP 	figura: autoDraw = True
+50.1927 	EXP 	New trial (rep=0, index=6): {'Stimulus': '18.png', 'Target': 0}
+50.2090 	EXP 	figura: autoDraw = False
+50.2090 	EXP 	figura: autoDraw = False
+50.2090 	EXP 	figura: image = '18.png'
+50.2090 	EXP 	figura: autoDraw = True
+50.3761 	EXP 	New trial (rep=0, index=7): {'Stimulus': '11.png', 'Target': 0}
+50.3820 	DATA 	Keypress: space
+50.3919 	EXP 	figura: autoDraw = False
+50.3919 	EXP 	figura: image = '11.png'
+50.3919 	EXP 	figura: autoDraw = True
+51.3755 	EXP 	New trial (rep=0, index=8): {'Stimulus': '1.png', 'Target': 1}
+51.3920 	EXP 	figura: autoDraw = False
+51.3920 	EXP 	figura: autoDraw = False
+51.3920 	EXP 	figura: image = '1.png'
+51.3920 	EXP 	figura: autoDraw = True
+51.6266 	EXP 	New trial (rep=0, index=9): {'Stimulus': '21.png', 'Target': 0}
+51.6327 	DATA 	Keypress: space
+51.6416 	EXP 	figura: autoDraw = False
+51.6416 	EXP 	figura: image = '21.png'
+51.6416 	EXP 	figura: autoDraw = True
+52.6252 	EXP 	New trial (rep=0, index=10): {'Stimulus': '24.png', 'Target': 0}
+52.6413 	EXP 	figura: autoDraw = False
+52.6413 	EXP 	figura: autoDraw = False
+52.6413 	EXP 	figura: image = '24.png'
+52.6413 	EXP 	figura: autoDraw = True
+53.6258 	EXP 	New trial (rep=0, index=11): {'Stimulus': '1.png', 'Target': 1}
+53.6421 	EXP 	figura: autoDraw = False
+53.6421 	EXP 	figura: autoDraw = False
+53.6421 	EXP 	figura: image = '1.png'
+53.6421 	EXP 	figura: autoDraw = True
+54.6418 	EXP 	New trial (rep=0, index=12): {'Stimulus': '20.png', 'Target': 0}
+54.6581 	EXP 	figura: autoDraw = False
+54.6581 	EXP 	figura: image = '20.png'
+54.6581 	EXP 	figura: autoDraw = True
+54.8753 	EXP 	New trial (rep=0, index=13): {'Stimulus': '2.png', 'Target': 1}
+54.8803 	DATA 	Keypress: space
+54.8914 	EXP 	figura: autoDraw = False
+54.8914 	EXP 	figura: image = '2.png'
+54.8914 	EXP 	figura: autoDraw = True
+55.8757 	EXP 	New trial (rep=0, index=14): {'Stimulus': '2.png', 'Target': 1}
+55.8809 	DATA 	Keypress: space
+55.8915 	EXP 	figura: autoDraw = False
+55.8915 	EXP 	figura: autoDraw = False
+55.8915 	EXP 	figura: image = '2.png'
+55.8915 	EXP 	figura: autoDraw = True
+56.8264 	EXP 	New trial (rep=0, index=15): {'Stimulus': '9.png', 'Target': 0}
+56.8325 	DATA 	Keypress: space
+56.8415 	EXP 	figura: autoDraw = False
+56.8415 	EXP 	figura: image = '9.png'
+56.8415 	EXP 	figura: autoDraw = True
+57.8264 	EXP 	New trial (rep=0, index=16): {'Stimulus': '2.png', 'Target': 1}
+57.8420 	EXP 	figura: autoDraw = False
+57.8420 	EXP 	figura: autoDraw = False
+57.8420 	EXP 	figura: image = '2.png'
+57.8420 	EXP 	figura: autoDraw = True
+58.1425 	EXP 	New trial (rep=0, index=17): {'Stimulus': '22.png', 'Target': 0}
+58.1486 	DATA 	Keypress: space
+58.1578 	EXP 	figura: autoDraw = False
+58.1578 	EXP 	figura: image = '22.png'
+58.1578 	EXP 	figura: autoDraw = True
+59.1422 	EXP 	New trial (rep=0, index=18): {'Stimulus': '12.png', 'Target': 0}
+59.1583 	EXP 	figura: autoDraw = False
+59.1583 	EXP 	figura: autoDraw = False
+59.1583 	EXP 	figura: image = '12.png'
+59.1583 	EXP 	figura: autoDraw = True
+59.4253 	EXP 	New trial (rep=0, index=19): {'Stimulus': '16.png', 'Target': 0}
+59.4312 	DATA 	Keypress: space
+59.4409 	EXP 	figura: autoDraw = False
+59.4409 	EXP 	figura: image = '16.png'
+59.4409 	EXP 	figura: autoDraw = True
+60.4088 	EXP 	New trial (rep=0, index=20): {'Stimulus': '2.png', 'Target': 1}
+60.4139 	DATA 	Keypress: space
+60.4247 	EXP 	figura: autoDraw = False
+60.4247 	EXP 	figura: image = '2.png'
+60.4247 	EXP 	figura: autoDraw = True
+60.9752 	EXP 	New trial (rep=0, index=21): {'Stimulus': '1.png', 'Target': 1}
+60.9801 	DATA 	Keypress: space
+60.9913 	EXP 	figura: autoDraw = False
+60.9913 	EXP 	figura: image = '1.png'
+60.9913 	EXP 	figura: autoDraw = True
+61.4928 	EXP 	New trial (rep=0, index=22): {'Stimulus': '15.png', 'Target': 0}
+61.4988 	DATA 	Keypress: space
+61.5072 	EXP 	figura: autoDraw = False
+61.5072 	EXP 	figura: image = '15.png'
+61.5072 	EXP 	figura: autoDraw = True
+61.8425 	EXP 	New trial (rep=0, index=23): {'Stimulus': '1.png', 'Target': 1}
+61.8475 	DATA 	Keypress: space
+61.8582 	EXP 	figura: autoDraw = False
+61.8582 	EXP 	figura: image = '1.png'
+61.8582 	EXP 	figura: autoDraw = True
+61.9927 	EXP 	New trial (rep=0, index=24): {'Stimulus': '2.png', 'Target': 1}
+61.9977 	DATA 	Keypress: space
+62.0080 	EXP 	figura: autoDraw = False
+62.0080 	EXP 	figura: image = '2.png'
+62.0080 	EXP 	figura: autoDraw = True
+62.1584 	EXP 	New trial (rep=0, index=25): {'Stimulus': '1.png', 'Target': 1}
+62.1634 	DATA 	Keypress: space
+62.1743 	EXP 	figura: autoDraw = False
+62.1743 	EXP 	figura: image = '1.png'
+62.1743 	EXP 	figura: autoDraw = True
+62.3091 	EXP 	New trial (rep=0, index=26): {'Stimulus': '17.png', 'Target': 0}
+62.3155 	DATA 	Keypress: space
+62.3247 	EXP 	figura: autoDraw = False
+62.3247 	EXP 	figura: image = '17.png'
+62.3247 	EXP 	figura: autoDraw = True
+62.4753 	EXP 	New trial (rep=0, index=27): {'Stimulus': '2.png', 'Target': 1}
+62.4803 	DATA 	Keypress: space
+62.4913 	EXP 	figura: autoDraw = False
+62.4913 	EXP 	figura: image = '2.png'
+62.4913 	EXP 	figura: autoDraw = True
+62.6591 	EXP 	New trial (rep=0, index=28): {'Stimulus': '13.png', 'Target': 0}
+62.6656 	DATA 	Keypress: space
+62.6742 	EXP 	figura: autoDraw = False
+62.6742 	EXP 	figura: image = '13.png'
+62.6742 	EXP 	figura: autoDraw = True
+62.8428 	EXP 	New trial (rep=0, index=29): {'Stimulus': '1.png', 'Target': 1}
+62.8476 	DATA 	Keypress: space
+62.8585 	EXP 	figura: autoDraw = False
+62.8585 	EXP 	figura: image = '1.png'
+62.8585 	EXP 	figura: autoDraw = True
+63.0255 	EXP 	New trial (rep=0, index=30): {'Stimulus': '23.png', 'Target': 0}
+63.0315 	DATA 	Keypress: space
+63.0410 	EXP 	figura: autoDraw = False
+63.0410 	EXP 	figura: image = '23.png'
+63.0410 	EXP 	figura: autoDraw = True
+63.2084 	EXP 	New trial (rep=0, index=31): {'Stimulus': '4.png', 'Target': 0}
+63.2146 	DATA 	Keypress: space
+63.2242 	EXP 	figura: autoDraw = False
+63.2242 	EXP 	figura: image = '4.png'
+63.2242 	EXP 	figura: autoDraw = True
+63.3923 	DATA 	Keypress: space
+63.4084 	EXP 	New trial (rep=0, index=32): {'Stimulus': '19.png', 'Target': 0}
+63.4242 	EXP 	figura: autoDraw = False
+63.4242 	EXP 	figura: image = '19.png'
+63.4242 	EXP 	figura: autoDraw = True
+63.5914 	EXP 	New trial (rep=0, index=33): {'Stimulus': '2.png', 'Target': 1}
+63.5963 	DATA 	Keypress: space
+63.6075 	EXP 	figura: autoDraw = False
+63.6075 	EXP 	figura: image = '2.png'
+63.6075 	EXP 	figura: autoDraw = True
+63.7924 	EXP 	New trial (rep=0, index=34): {'Stimulus': '7.png', 'Target': 0}
+63.7982 	DATA 	Keypress: space
+63.8075 	EXP 	figura: autoDraw = False
+63.8075 	EXP 	figura: image = '7.png'
+63.8075 	EXP 	figura: autoDraw = True
+64.0083 	EXP 	New trial (rep=0, index=35): {'Stimulus': '3.png', 'Target': 0}
+64.0143 	DATA 	Keypress: space
+64.0246 	EXP 	figura: autoDraw = False
+64.0246 	EXP 	figura: image = '3.png'
+64.0246 	EXP 	figura: autoDraw = True
+64.2254 	EXP 	New trial (rep=0, index=36): {'Stimulus': '6.png', 'Target': 0}
+64.2315 	DATA 	Keypress: space
+64.2411 	EXP 	figura: autoDraw = False
+64.2411 	EXP 	figura: image = '6.png'
+64.2411 	EXP 	figura: autoDraw = True
+64.4256 	EXP 	New trial (rep=0, index=37): {'Stimulus': '5.png', 'Target': 0}
+64.4314 	DATA 	Keypress: space
+64.4414 	EXP 	figura: autoDraw = False
+64.4414 	EXP 	figura: image = '5.png'
+64.4414 	EXP 	figura: autoDraw = True
+64.9918 	EXP 	New trial (rep=1, index=0): {'Stimulus': '23.png', 'Target': 0}
+64.9970 	DATA 	Keypress: space
+65.0080 	EXP 	figura: autoDraw = False
+65.0080 	EXP 	figura: image = '23.png'
+65.0080 	EXP 	figura: autoDraw = True
+65.6589 	EXP 	New trial (rep=1, index=1): {'Stimulus': '6.png', 'Target': 0}
+65.6640 	DATA 	Keypress: space
+65.6746 	EXP 	figura: autoDraw = False
+65.6746 	EXP 	figura: image = '6.png'
+65.6746 	EXP 	figura: autoDraw = True
+66.3088 	EXP 	New trial (rep=1, index=2): {'Stimulus': '7.png', 'Target': 0}
+66.3142 	DATA 	Keypress: space
+66.3243 	EXP 	figura: autoDraw = False
+66.3243 	EXP 	figura: image = '7.png'
+66.3243 	EXP 	figura: autoDraw = True
+66.7251 	EXP 	New trial (rep=1, index=3): {'Stimulus': '4.png', 'Target': 0}
+66.7303 	DATA 	Keypress: space
+66.7407 	EXP 	figura: autoDraw = False
+66.7407 	EXP 	figura: image = '4.png'
+66.7407 	EXP 	figura: autoDraw = True
+67.1082 	EXP 	New trial (rep=1, index=4): {'Stimulus': '5.png', 'Target': 0}
+67.1136 	DATA 	Keypress: space
+67.1241 	EXP 	figura: autoDraw = False
+67.1241 	EXP 	figura: image = '5.png'
+67.1241 	EXP 	figura: autoDraw = True
+67.4585 	EXP 	New trial (rep=1, index=5): {'Stimulus': '1.png', 'Target': 1}
+67.4636 	DATA 	Keypress: space
+67.4736 	EXP 	figura: autoDraw = False
+67.4736 	EXP 	figura: image = '1.png'
+67.4736 	EXP 	figura: autoDraw = True
+67.7746 	EXP 	New trial (rep=1, index=6): {'Stimulus': '1.png', 'Target': 1}
+67.7795 	DATA 	Keypress: space
+67.7905 	EXP 	figura: autoDraw = False
+67.7905 	EXP 	figura: image = '1.png'
+67.7905 	EXP 	figura: autoDraw = True
+68.1590 	EXP 	New trial (rep=1, index=7): {'Stimulus': '2.png', 'Target': 1}
+68.1643 	DATA 	Keypress: space
+68.1743 	EXP 	figura: autoDraw = False
+68.1743 	EXP 	figura: image = '2.png'
+68.1743 	EXP 	figura: autoDraw = True
+68.5592 	EXP 	New trial (rep=1, index=8): {'Stimulus': '19.png', 'Target': 0}
+68.5645 	DATA 	Keypress: space
+68.5743 	EXP 	figura: autoDraw = False
+68.5743 	EXP 	figura: image = '19.png'
+68.5743 	EXP 	figura: autoDraw = True
+68.8081 	EXP 	New trial (rep=1, index=9): {'Stimulus': '20.png', 'Target': 0}
+68.8135 	DATA 	Keypress: space
+68.8242 	EXP 	figura: autoDraw = False
+68.8242 	EXP 	figura: image = '20.png'
+68.8242 	EXP 	figura: autoDraw = True
+69.0920 	EXP 	New trial (rep=1, index=10): {'Stimulus': '21.png', 'Target': 0}
+69.0970 	DATA 	Keypress: space
+69.1076 	EXP 	figura: autoDraw = False
+69.1076 	EXP 	figura: image = '21.png'
+69.1076 	EXP 	figura: autoDraw = True
+69.3588 	EXP 	New trial (rep=1, index=11): {'Stimulus': '2.png', 'Target': 1}
+69.3637 	DATA 	Keypress: space
+69.3747 	EXP 	figura: autoDraw = False
+69.3747 	EXP 	figura: image = '2.png'
+69.3747 	EXP 	figura: autoDraw = True
+69.6260 	EXP 	New trial (rep=1, index=12): {'Stimulus': '2.png', 'Target': 1}
+69.6310 	DATA 	Keypress: space
+69.6418 	EXP 	figura: autoDraw = False
+69.6418 	EXP 	figura: image = '2.png'
+69.6418 	EXP 	figura: autoDraw = True
+69.8591 	EXP 	New trial (rep=1, index=13): {'Stimulus': '24.png', 'Target': 0}
+69.8644 	DATA 	Keypress: space
+69.8743 	EXP 	figura: autoDraw = False
+69.8743 	EXP 	figura: image = '24.png'
+69.8743 	EXP 	figura: autoDraw = True
+70.1254 	EXP 	New trial (rep=1, index=14): {'Stimulus': '15.png', 'Target': 0}
+70.1304 	DATA 	Keypress: space
+70.1407 	EXP 	figura: autoDraw = False
+70.1407 	EXP 	figura: image = '15.png'
+70.1407 	EXP 	figura: autoDraw = True
+70.4589 	EXP 	New trial (rep=1, index=15): {'Stimulus': '11.png', 'Target': 0}
+70.4641 	DATA 	Keypress: space
+70.4742 	EXP 	figura: autoDraw = False
+70.4742 	EXP 	figura: image = '11.png'
+70.4742 	EXP 	figura: autoDraw = True
+70.7594 	EXP 	New trial (rep=1, index=16): {'Stimulus': '1.png', 'Target': 1}
+70.7644 	DATA 	Keypress: space
+70.7741 	EXP 	figura: autoDraw = False
+70.7741 	EXP 	figura: image = '1.png'
+70.7741 	EXP 	figura: autoDraw = True
+71.0257 	EXP 	New trial (rep=1, index=17): {'Stimulus': '9.png', 'Target': 0}
+71.0310 	DATA 	Keypress: space
+71.0409 	EXP 	figura: autoDraw = False
+71.0409 	EXP 	figura: image = '9.png'
+71.0409 	EXP 	figura: autoDraw = True
+71.2257 	EXP 	New trial (rep=1, index=18): {'Stimulus': '1.png', 'Target': 1}
+71.2307 	DATA 	Keypress: space
+71.2410 	EXP 	figura: autoDraw = False
+71.2410 	EXP 	figura: image = '1.png'
+71.2410 	EXP 	figura: autoDraw = True
+71.4251 	EXP 	New trial (rep=1, index=19): {'Stimulus': '13.png', 'Target': 0}
+71.4303 	DATA 	Keypress: space
+71.4406 	EXP 	figura: autoDraw = False
+71.4406 	EXP 	figura: image = '13.png'
+71.4406 	EXP 	figura: autoDraw = True
+71.6085 	EXP 	New trial (rep=1, index=20): {'Stimulus': '1.png', 'Target': 1}
+71.6133 	DATA 	Keypress: space
+71.6238 	EXP 	figura: autoDraw = False
+71.6238 	EXP 	figura: image = '1.png'
+71.6238 	EXP 	figura: autoDraw = True
+71.7913 	EXP 	New trial (rep=1, index=21): {'Stimulus': '1.png', 'Target': 1}
+71.7963 	DATA 	Keypress: space
+71.8072 	EXP 	figura: autoDraw = False
+71.8072 	EXP 	figura: image = '1.png'
+71.8072 	EXP 	figura: autoDraw = True
+71.9914 	EXP 	New trial (rep=1, index=22): {'Stimulus': '2.png', 'Target': 1}
+71.9965 	DATA 	Keypress: space
+72.0070 	EXP 	figura: autoDraw = False
+72.0070 	EXP 	figura: image = '2.png'
+72.0070 	EXP 	figura: autoDraw = True
+72.2256 	EXP 	New trial (rep=1, index=23): {'Stimulus': '2.png', 'Target': 1}
+72.2309 	DATA 	Keypress: space
+72.2408 	EXP 	figura: autoDraw = False
+72.2408 	EXP 	figura: image = '2.png'
+72.2408 	EXP 	figura: autoDraw = True
+72.4917 	EXP 	New trial (rep=1, index=24): {'Stimulus': '10.png', 'Target': 0}
+72.4974 	DATA 	Keypress: space
+72.5070 	EXP 	figura: autoDraw = False
+72.5070 	EXP 	figura: image = '10.png'
+72.5070 	EXP 	figura: autoDraw = True
+72.7914 	EXP 	New trial (rep=1, index=25): {'Stimulus': '17.png', 'Target': 0}
+72.7966 	DATA 	Keypress: space
+72.8071 	EXP 	figura: autoDraw = False
+72.8071 	EXP 	figura: image = '17.png'
+72.8071 	EXP 	figura: autoDraw = True
+73.1078 	EXP 	New trial (rep=1, index=26): {'Stimulus': '1.png', 'Target': 1}
+73.1128 	DATA 	Keypress: space
+73.1244 	EXP 	figura: autoDraw = False
+73.1244 	EXP 	figura: image = '1.png'
+73.1244 	EXP 	figura: autoDraw = True
+73.3754 	EXP 	New trial (rep=1, index=27): {'Stimulus': '2.png', 'Target': 1}
+73.3805 	DATA 	Keypress: space
+73.3912 	EXP 	figura: autoDraw = False
+73.3912 	EXP 	figura: image = '2.png'
+73.3912 	EXP 	figura: autoDraw = True
+73.6246 	EXP 	New trial (rep=1, index=28): {'Stimulus': '3.png', 'Target': 0}
+73.6298 	DATA 	Keypress: space
+73.6407 	EXP 	figura: autoDraw = False
+73.6407 	EXP 	figura: image = '3.png'
+73.6407 	EXP 	figura: autoDraw = True
+73.9252 	EXP 	New trial (rep=1, index=29): {'Stimulus': '16.png', 'Target': 0}
+73.9303 	DATA 	Keypress: space
+73.9407 	EXP 	figura: autoDraw = False
+73.9407 	EXP 	figura: image = '16.png'
+73.9407 	EXP 	figura: autoDraw = True
+74.2079 	EXP 	New trial (rep=1, index=30): {'Stimulus': '1.png', 'Target': 1}
+74.2129 	DATA 	Keypress: space
+74.2246 	EXP 	figura: autoDraw = False
+74.2246 	EXP 	figura: image = '1.png'
+74.2246 	EXP 	figura: autoDraw = True
+74.5079 	EXP 	New trial (rep=1, index=31): {'Stimulus': '8.png', 'Target': 0}
+74.5130 	DATA 	Keypress: space
+74.5241 	EXP 	figura: autoDraw = False
+74.5241 	EXP 	figura: image = '8.png'
+74.5241 	EXP 	figura: autoDraw = True
+74.7752 	EXP 	New trial (rep=1, index=32): {'Stimulus': '12.png', 'Target': 0}
+74.7802 	DATA 	Keypress: space
+74.7907 	EXP 	figura: autoDraw = False
+74.7907 	EXP 	figura: image = '12.png'
+74.7907 	EXP 	figura: autoDraw = True
+75.1581 	EXP 	New trial (rep=1, index=33): {'Stimulus': '14.png', 'Target': 0}
+75.1631 	DATA 	Keypress: space
+75.1736 	EXP 	figura: autoDraw = False
+75.1736 	EXP 	figura: image = '14.png'
+75.1736 	EXP 	figura: autoDraw = True
+75.4421 	EXP 	New trial (rep=1, index=34): {'Stimulus': '18.png', 'Target': 0}
+75.4472 	DATA 	Keypress: space
+75.4573 	EXP 	figura: autoDraw = False
+75.4573 	EXP 	figura: image = '18.png'
+75.4573 	EXP 	figura: autoDraw = True
+75.7411 	EXP 	New trial (rep=1, index=35): {'Stimulus': '2.png', 'Target': 1}
+75.7462 	DATA 	Keypress: space
+75.7567 	EXP 	figura: autoDraw = False
+75.7567 	EXP 	figura: image = '2.png'
+75.7567 	EXP 	figura: autoDraw = True
+76.0746 	EXP 	New trial (rep=1, index=36): {'Stimulus': '2.png', 'Target': 1}
+76.0795 	DATA 	Keypress: space
+76.0907 	EXP 	figura: autoDraw = False
+76.0907 	EXP 	figura: image = '2.png'
+76.0907 	EXP 	figura: autoDraw = True
+76.4409 	EXP 	New trial (rep=1, index=37): {'Stimulus': '22.png', 'Target': 0}
+76.4459 	DATA 	Keypress: space
+76.4571 	EXP 	figura: autoDraw = False
+76.4571 	EXP 	figura: image = '22.png'
+76.4571 	EXP 	figura: autoDraw = True
+76.7593 	DATA 	Keypress: space
+76.7725 	EXP 	figura: autoDraw = False
+76.7726 	EXP 	ssr_1: status = STOPPED
+76.8121 	EXP 	window1: mouseVisible = True
