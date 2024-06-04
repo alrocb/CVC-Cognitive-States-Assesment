@@ -4253,3 +4253,81 @@
 46.1998 	EXP 	trial_txt: autoDraw = False
 46.1999 	EXP 	stroop: status = STOPPED
 46.2338 	EXP 	window1: mouseVisible = True
+6.5126 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001B083574400>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001B0835743A0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001B0835741F0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001B08391AE20>, multiSample=False, name='window1', numSamples=2, pos=(192, 108), screen=0, size=array([1536,  864]), stencilBits=0, stereo=False, title='PsychoPy', units='norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.5127 	EXP 	window1: mouseVisible = True
+6.5127 	EXP 	window1: backgroundImage = ''
+6.5127 	EXP 	window1: backgroundFit = 'none'
+6.5141 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.5142 	EXP 	window1: recordFrameIntervals = False
+6.6793 	EXP 	window1: recordFrameIntervals = True
+6.8624 	EXP 	Screen (0) actual frame rate measured at 60.02Hz
+6.8625 	EXP 	window1: recordFrameIntervals = False
+6.8628 	EXP 	window1: mouseVisible = True
+6.9091 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+9.1218 	EXP 	stroop: status = STARTED
+9.1221 	EXP 	window1: mouseVisible = True
+9.2779 	EXP 	Created welcome_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.2, italic=False, languageStyle='LTR', name='welcome_txt', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Welcome to the Stroop Game!\n', units='norm', win=Window(...), wrapWidth=1)
+9.2780 	EXP 	window1: mouseVisible = True
+9.3256 	EXP 	Created instructions_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='instructions_txt', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='norm', win=Window(...), wrapWidth=1)
+9.3258 	EXP 	window1: mouseVisible = True
+9.3284 	EXP 	Created circle = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1., 1., 1.]), fillColorSpace='rgb', fillRGB=array([1., 1., 1.]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1., 1., 1.]), lineWidth=1.0, name='circle', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.01, 0.01]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.3285 	EXP 	window1: mouseVisible = True
+9.3295 	EXP 	Created trial_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.2, italic=False, languageStyle='LTR', name='trial_txt', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='norm', win=Window(...), wrapWidth=1)
+9.3296 	EXP 	window1: mouseVisible = True
+9.3325 	EXP 	Created polygon = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='polygon', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.01, 0.01]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.3326 	EXP 	window1: mouseVisible = True
+9.3378 	EXP 	Created click = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.2, italic=False, languageStyle='LTR', name='click', opacity=1.0, ori=0.0, pos=array([0. , 0.7]), rgb=UNKNOWN, text='Click the ', units='norm', win=Window(...), wrapWidth=1)
+9.3379 	EXP 	window1: mouseVisible = True
+9.3421 	EXP 	Created word = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.2, italic=False, languageStyle='LTR', name='word', opacity=1.0, ori=0.0, pos=array([0. , 0.5]), rgb=UNKNOWN, text='GREEN', units='norm', win=Window(...), wrapWidth=1)
+9.3422 	EXP 	window1: mouseVisible = True
+9.3447 	EXP 	Created greencircle = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([-1.    ,  0.0039, -1.    ]), fillColorSpace='rgb', fillRGB=array([-1.    ,  0.0039, -1.    ]), interpolate=True, lineColor=array([-1., -1., -1.]), lineColorSpace='rgb', lineRGB=array([-1., -1., -1.]), lineWidth=1.0, name='greencircle', opacity=1.0, ori=0.0, pos=array([-0.5,  0. ]), size=array([0.1, 0.1]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.3448 	EXP 	window1: mouseVisible = True
+9.3473 	EXP 	Created redcircle = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-3.0, draggable=False, fillColor=array([ 1., -1., -1.]), fillColorSpace='rgb', fillRGB=array([ 1., -1., -1.]), interpolate=True, lineColor=array([-1., -1., -1.]), lineColorSpace='rgb', lineRGB=array([-1., -1., -1.]), lineWidth=1.0, name='redcircle', opacity=1.0, ori=0.0, pos=array([0.5, 0. ]), size=array([0.1, 0.1]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.3473 	EXP 	window1: mouseVisible = True
+0.0581 	EXP 	welcome_txt: autoDraw = True
+1.0326 	EXP 	welcome_txt: autoDraw = False
+1.0326 	EXP 	instructions_txt: autoDraw = True
+1.2048 	DATA 	Mouse: Left button down, pos=(1498,24)
+1.2832 	DATA 	Mouse:  Left button up, pos=(1498,24)
+2.3012 	DATA 	Keypress: lshift
+2.3511 	DATA 	Keypress: lwindows
+2.6666 	DATA 	Keypress: s
+9.7265 	EXP 	instructions_txt: autoDraw = False
+9.7265 	EXP 	circle: autoDraw = True
+10.7363 	EXP 	Imported conditions.xlsx as conditions, 20 conditions, 2 params
+10.7381 	EXP 	Created sequence: random, trialTypes=20, nReps=3, seed=None
+10.7384 	EXP 	New trial (rep=0, index=0): {'stim_word': 'verde', 'stim_color': 'green'}
+10.7901 	EXP 	circle: autoDraw = False
+10.7901 	EXP 	trial_txt: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+10.7901 	EXP 	trial_txt: height = 0.2
+10.7901 	EXP 	trial_txt: height = 0.2
+10.7901 	EXP 	trial_txt: height = 0.2
+10.7901 	EXP 	trial_txt: text = 'verde'
+10.7901 	EXP 	trial_txt: autoDraw = True
+11.6088 	DATA 	Mouse: Left button down, pos=(767,279)
+11.6939 	DATA 	Mouse:  Left button up, pos=(767,279)
+15.7382 	EXP 	trial_txt: autoDraw = False
+15.7382 	EXP 	polygon: autoDraw = True
+15.8575 	EXP 	New trial (rep=0, index=1): {'stim_word': 'verde', 'stim_color': 'green'}
+15.8684 	EXP 	polygon: autoDraw = False
+15.8684 	EXP 	polygon: autoDraw = False
+15.8684 	EXP 	trial_txt: foreColor = <psychopy.colors.Color: green, alpha=1.0>
+15.8684 	EXP 	trial_txt: text = 'verde'
+15.8684 	EXP 	trial_txt: autoDraw = True
+17.5880 	DATA 	Keypress: lalt
+20.8724 	EXP 	trial_txt: autoDraw = False
+20.8724 	EXP 	trial_txt: autoDraw = False
+20.8724 	EXP 	polygon: autoDraw = True
+20.9840 	EXP 	New trial (rep=0, index=2): {'stim_word': 'verde', 'stim_color': 'red'}
+21.0007 	EXP 	polygon: autoDraw = False
+21.0007 	EXP 	polygon: autoDraw = False
+21.0007 	EXP 	trial_txt: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+21.0007 	EXP 	trial_txt: text = 'verde'
+21.0007 	EXP 	trial_txt: autoDraw = True
+22.6690 	DATA 	Mouse: Left button down, pos=(813,384)
+22.7517 	DATA 	Mouse:  Left button up, pos=(813,384)
+23.1693 	DATA 	Keypress: escape
+23.3179 	EXP 	stroop: status = STOPPED
+23.3338 	EXP 	trial_txt: autoDraw = False
+23.3339 	EXP 	stroop: status = STOPPED
+23.3711 	EXP 	window1: mouseVisible = True
